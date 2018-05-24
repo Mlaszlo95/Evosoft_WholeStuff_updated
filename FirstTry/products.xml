@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<product>
+	<cpu>
+		<item>
+			<producer>AMD</producer>
+			<serrial>Ryzen 5</serrial>
+			<serrialnumber>1600</serrialnumber>
+			<socket>AM4</socket>
+			<clock>3200</clock>
+			<cpu_cores>6</cpu_cores>
+			<manufactorytech>14</manufactorytech>
+			<quantity>1</quantity>
+			<price>46000</price>
+		</item>
+		<item>
+			<producer>AMD</producer>
+			<serrial>Ryzen 7</serrial>
+			<serrialnumber>1600x</serrialnumber>
+			<socket>AM4</socket>
+			<clock>4000</clock>
+			<cpu_cores>8</cpu_cores>
+			<manufactorytech>14</manufactorytech>
+			<quantity>1</quantity>
+			<price>99000</price>
+		</item>
+  <item>
+      <producer>amd</producer>
+      <serrial>i5</serrial>
+      <serrialnumber>2500</serrialnumber>
+      <socket>1</socket>
+      <clock>1</clock>
+      <cpu_cores>1</cpu_cores>
+      <manufactorytech>0</manufactorytech>
+    </item>
+  </cpu>
+</product>

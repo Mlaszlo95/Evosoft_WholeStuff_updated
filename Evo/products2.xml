@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<Other>
+		<item type="kalapacs">
+			<name>Sanyika kiskalapacsa</name>
+			<producer>Németország</producer>
+			<quantity>2</quantity>
+			<price>3000</price>
+		</item>
+	</Other>
+
+   <PC_component>
+    <item type="cpu">
+      <name>Ryzen 5 1600</name>
+	  <producer>AMD</producer>
+	  <quantity>1</quantity>
+	  <price>46000</price>
+      <clock>3200</clock>
+      <socket>AM4</socket>
+	  <cpu_cores>6</cpu_cores>
+      <manufactorytech>14</manufactorytech>
+    </item>
+    <item type="gpu">
+      <name>gtx 970</name>
+      <producer>nvidia</producer>
+      <quantity>2</quantity>
+      <price>90000</price>
+      <clock>2600</clock>
+      <ram>3500</ram>
+      <ram_speed>2000</ram_speed>
+      <bus_memory>1000</bus_memory>
+      <bus_type>LG</bus_type>
+    </item>
+  </PC_component>
+</products>
